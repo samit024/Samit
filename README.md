@@ -1,2 +1,2 @@
-# Samit
-For Devops
+# Random
+For random purposes
